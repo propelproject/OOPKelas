@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=namaInventory\ namaUkuran\ namaSatuan\ satuan\ harga\ stok
+comment0.target=BarangAbstrak(java.lang.String,\ java.lang.String,\ java.lang.String,\ float,\ float,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ BarangAbstrak\r\n
+comment1.params=namaInventory\ jumlah
+comment1.target=java.lang.String\ setMessage(java.lang.String,\ float)
+comment1.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment2.params=jumlah\ namaInventory
+comment2.target=java.lang.String\ setMessage(float,\ java.lang.String)
+comment3.params=
+comment3.target=float\ getHargaTotal()
+numComments=4

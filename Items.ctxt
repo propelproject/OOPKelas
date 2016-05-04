@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=namaInventory\ satuan
+comment0.target=java.lang.String\ setMessage(java.lang.String,\ float)
+comment0.text=\r\n\ Method\ untuk\ menentukan\ pesan\r\n
+comment1.params=satuan\ namaInventory
+comment1.target=java.lang.String\ setMessage(float,\ java.lang.String)
+comment2.params=
+comment2.target=float\ getHargaTotal()
+numComments=3

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Toko()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Toko\r\n
+comment1.params=y
+comment1.target=int\ sampleMethod(int)
+comment1.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment2.params=barang\ jumlah\ satuan
+comment2.target=void\ pembelian(Inventory,\ float,\ boolean)
+comment2.text=\r\n\ Method\ untuk\ toko\ melakukan\ pembelian,\ di\ mana\ akan\ mengurangi\ stok\ dari\ inventory\ dan\ menentukan\ apakah\ pembelian\ dilakukan\ secara\ satuan\ atau\ tidak\r\n
+numComments=3
